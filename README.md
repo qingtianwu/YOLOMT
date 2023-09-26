@@ -2,7 +2,7 @@ YOLOMT: A Real-Time Multi-Task Learning System for Joint Detection of Face, Faci
 <div align="center">
   <p>
     <a href="https://yolovision.ultralytics.com/" target="_blank">
-      <img width="100%" src="demoFirst.png"></a>
+      <img width="50%" src="demoFirst.png"></a>
   </p>
 
 More displays of three joint detection tasks under challenging conditions, i.e., (a) expressions, (b) low lighting, (c) makeups, (d) large swing angles, (e) occlusions and (f) mixed complex scenes. Green color represents ground truth and white color represents the predicted outputs.

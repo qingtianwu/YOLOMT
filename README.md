@@ -1,7 +1,16 @@
+YOLOMT: A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose
 <div align="center">
   <p>
     <a href="https://yolovision.ultralytics.com/" target="_blank">
-      <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/im/banner-yolo-vision-2023.png"></a>
+      <img width="100%" src="demofirst.png"></a>
+  </p>
+
+More displays of three joint detection tasks under challenging conditions, i.e., (a) expressions, (b) low lighting, (c) makeups, (d) large swing angles, (e) occlusions and (f) mixed complex scenes. Green color represents ground truth and white color represents the predicted outputs.
+
+<div align="center">
+  <p>
+    <a href="https://yolovision.ultralytics.com/" target="_blank">
+      <img width="100%" src="demo.png"></a>
   </p>
 
 [English](README.md) | [简体中文](README.zh-CN.md)
